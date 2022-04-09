@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/FaiekawilliamsJH14/<package-name>
+Author: Faieka Williams
+Author-email: faiekawilliams@wfs.co.za
+License: MIT
+Platform: UNKNOWN
+
+# mypackage 
+This library was created as an example of how to publish your own Python package.
+
+# How to install
+...
+
